@@ -2,6 +2,8 @@
 
 I'm a programmer working on my coding skills, hoping to better understand the world through programming in my lifetime.
 
+![GitHub Snake](https://raw.githubusercontent.com/Fisheep9/Fisheep9/output/snake.svg)
+
 
 ## My Mastered Skills
 
