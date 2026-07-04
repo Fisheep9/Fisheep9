@@ -1,16 +1,16 @@
-## Hi there 👋
+ <p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🎉%20Do%20it!&width=820&height=200" alt="Do it banner" />
+  </a>
+</p>
 
-I'm a programmer working on my coding skills, hoping to better understand the world through programming in my lifetime.
+Hi! My name is Biyu Ye. Thank You for taking the time to view my GitHub Profile 😄
 
-I want to make friends, learn knowledge, and improve my skills. Criticism and corrections are always welcome.
+
+
+
+## Skills
+![skills](https://skillicons.dev/icons?i=linux,ros,matlab,c,cpp,py,html,bash,git,cmake,vim,anaconda,docker,blender,ps,pr)
+
 
 ![GitHub Snake](https://raw.githubusercontent.com/Fisheep9/Fisheep9/output/snake.svg)
-
-
-## My Mastered Skills
-
-![Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,matlab,anaconda,ps,pr)
-
-## What I'm Currently Interested In
-
-![Skills](https://skillicons.dev/icons?i=ros,unreal,unity,blender)
